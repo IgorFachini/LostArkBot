@@ -1,7 +1,6 @@
 import pyautogui
 import pydirectinput
 import utils.game as utilsGame
-from utils.general import mouseMoveTo, sleep
 
 # while True:
 # print(pyautogui.displayMousePosition())
